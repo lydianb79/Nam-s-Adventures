@@ -1,0 +1,15 @@
+# Unity
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+Build/
+*.csproj
+*.sln
+*.slnx
+
+# editors / OS
+.vscode/
+.DS_Store
+__pycache__/
