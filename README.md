@@ -6,12 +6,14 @@ Nam is on her way to dinner. Twenty-five levels lie between her and the seafood 
 
 ![Title screen](docs/title.jpg)
 
-| | |
-|---|---|
-| ![Emerald Falls](docs/emerald-falls.jpg) | ![Chinatown Night](docs/chinatown-night.jpg) |
-| ![Lantern Festival](docs/lantern-festival.jpg) | ![Island Hopping](docs/island-hopping.jpg) |
+## Screenshots
 
-![The ending](docs/ending.jpg)
+| | | |
+|---|---|---|
+| ![Paddy Field Dash](docs/paddy-field.jpg)<br>1 · Paddy Field Dash | ![Floating Market](docs/floating-market.jpg)<br>3 · Floating Market | ![Emerald Falls](docs/emerald-falls.jpg)<br>7 · Emerald Falls |
+| ![Monkey Temple](docs/monkey-temple.jpg)<br>9 · Monkey Temple | ![Bangkok Rooftops](docs/bangkok-rooftops.jpg)<br>12 · Bangkok Rooftops | ![Chinatown Night](docs/chinatown-night.jpg)<br>13 · Chinatown Night |
+| ![Ayutthaya Dusk](docs/ayutthaya-dusk.jpg)<br>15 · Ayutthaya Dusk | ![Lantern Festival](docs/lantern-festival.jpg)<br>16 · Lantern Festival | ![Monsoon Run](docs/monsoon-run.jpg)<br>20 · Monsoon Run |
+| ![Island Hopping](docs/island-hopping.jpg)<br>21 · Island Hopping | ![Seafood Road](docs/seafood-road.jpg)<br>25 · Seafood Road | ![The ending](docs/ending.jpg)<br>The seafood restaurant |
 
 ## Play
 
